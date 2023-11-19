@@ -1,5 +1,4 @@
-tensorflow.keras.models
-load_model
+tensorflow.keras.models.load_model
 streamlit
 numpy
 Image
